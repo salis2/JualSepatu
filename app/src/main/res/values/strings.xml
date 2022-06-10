@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">JualSepatu</string>
+    <string name="drawer_header">Drawer Header</string>
+    <string name="vyaninsya_gmail_com"> </string>
+    <string name="jual_sepatu">Jual Sepatu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="ini_profil">ini profil</string>
+    <string name="home">Home</string>
+    <string name="profil">Profil</string>
+    <string name="category">Category</string>
+    <string name="log_out">Log Out</string>
+    <string name="hint_Title">Title</string>
+    <string name="your_point">your point....</string>
+    <string name="add_sepatu">Add Sepatu</string>
+    <string name="nama_sepatu">Nama Sepatu</string>
+    <string name="_42">42</string>
+    <string name="_43">43</string>
+    <string name="_44">44</string>
+    <string name="_45">45</string>
+    <string name="brand_sepatu">Brand Sepatu</string>
+    <string name="no_telp">No Telp</string>
+    <string name="type_sepatu">Type Sepatu</string>
+    <string name="update_sepatu">Update Sepatu</string>
+</resources>
